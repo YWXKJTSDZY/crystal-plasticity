@@ -1,0 +1,40 @@
+*Solid Section, elset=Poly1, material=Poly1
+,
+*Solid Section, elset=Poly2, material=Poly2
+,
+*Solid Section, elset=Poly3, material=Poly3
+,
+*Solid Section, elset=Poly4, material=Poly4
+,
+*Solid Section, elset=Poly5, material=Poly5
+,
+*Solid Section, elset=Poly6, material=Poly6
+,
+*Solid Section, elset=Poly7, material=Poly7
+,
+*Solid Section, elset=Poly8, material=Poly8
+,
+*Solid Section, elset=Poly9, material=Poly9
+,
+*Solid Section, elset=Poly10, material=Poly10
+,
+*Solid Section, elset=Poly11, material=Poly11
+,
+*Solid Section, elset=Poly12, material=Poly12
+,
+*Solid Section, elset=Poly13, material=Poly13
+,
+*Solid Section, elset=Poly14, material=Poly14
+,
+*Solid Section, elset=Poly15, material=Poly15
+,
+*Solid Section, elset=Poly16, material=Poly16
+,
+*Solid Section, elset=Poly17, material=Poly17
+,
+*Solid Section, elset=Poly18, material=Poly18
+,
+*Solid Section, elset=Poly19, material=Poly19
+,
+*Solid Section, elset=Poly20, material=Poly20
+,
